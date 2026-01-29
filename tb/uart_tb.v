@@ -20,7 +20,7 @@ module uart_tb;
         .reset(reset),
         .tx_start(tx_start),
         .tx_data(tx_data),
-        .tx(tx(tx),
+        .tx(tx),
         .tx_done(tx_done)
     );
 
