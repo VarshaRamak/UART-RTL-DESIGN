@@ -75,7 +75,7 @@ uart-rtl-design/
 
 ## Tools Used
 - Verilog HDL
-- Simulation tools (ModelSim / Vivado / Icarus Verilog)
+- Simulation tools (Vivado)
 
 ---
 
