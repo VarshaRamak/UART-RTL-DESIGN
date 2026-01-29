@@ -1,6 +1,0 @@
-# UART Waveforms
-
-This folder contains simulation waveforms for the UART TX and RX modules.
-
-The waveform `uart_tx_rx_waveform.png` will be added after running functional
-verification using a Verilog simulator.
